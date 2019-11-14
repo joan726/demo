@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Svetha Venkatesh on Svetha Venkatesh</title>
-    <link>https://svethav.github.io/</link>
-    <description>Recent content in Svetha Venkatesh on Svetha Venkatesh</description>
+    <title>Coming Soon!</title>
+    <link>https://joan726.github.io</link>
+    <description>Data Analytics and AI Innovation Center</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 svetha venkatesh</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +1100</lastBuildDate>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 13 Nov 2019 00:00:00 +1100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Example Talk</title>
-      <link>https://svethav.github.io/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <link>https://joan726.github.io/talk/example-talk/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +1100</pubDate>
       
-      <guid>https://svethav.github.io/talk/example-talk/</guid>
+      <guid>https://joan726.github.io/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adaptive Experimental Design using Bayesian Optimisation</title>
-      <link>https://svethav.github.io/project/bayesopt/</link>
+      <link>https://joan726.github.io/project/bayesopt/</link>
       <pubDate>Tue, 27 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://svethav.github.io/project/bayesopt/</guid>
+      <guid>https://joan726.github.io/project/bayesopt/</guid>
       <description>&lt;p&gt;This project aims to optimise processes for manufacturing new materials, from short fibres, to alloys, to cosmetics, to food, or, in fact, any material for industry or consumer use. By using machine learning and Bayesian mathematics (a sophisticated form of probability), we have developed an abstract framework and software that achieves a faster, cheaper and more effective approach to optimising products and manufacturing processes.&lt;/p&gt;
 
 &lt;p&gt;The computational challenge in optimisation of novel processes arises because the mathematical relationship between the control variables and the target is often unknown - it is a classic “Black-Box Function”. Experimental data is expensive to acquire, so achieving an optimal setting with a minimum of experiments is desirable. Our framework - Adaptive Experimental Design uses machine learning to navigate complex problems with many variables. It interprets measurements and suggests settings for the next group of experiments, guiding the experimenter to the goal in fewer steps.&lt;/p&gt;
@@ -43,10 +43,10 @@
     
     <item>
       <title>Early Intervention for Autism</title>
-      <link>https://svethav.github.io/project/early-intervention-for-autism/</link>
+      <link>https://joan726.github.io/project/early-intervention-for-autism/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://svethav.github.io/project/early-intervention-for-autism/</guid>
+      <guid>https://joan726.github.io/project/early-intervention-for-autism/</guid>
       <description>&lt;p&gt;There is a growing gap between the number of children with autism requiring early intervention and available therapy. In this project we seek to produce the following outcomes:
 * Flexible frameworks for stimulus presentation and recording, for early intervention in social and cognitive/visual areas,
 * Open source infrastructures to leverage content and metadata from social media, constructing foundations for reusable content in early intervention,
@@ -74,10 +74,10 @@
     
     <item>
       <title>Health Analytics</title>
-      <link>https://svethav.github.io/project/health-analytics/</link>
+      <link>https://joan726.github.io/project/health-analytics/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://svethav.github.io/project/health-analytics/</guid>
+      <guid>https://joan726.github.io/project/health-analytics/</guid>
       <description>&lt;p&gt;With our partner &lt;a href=&#34;http://www.barwonhealth.org.au/&#34; target=&#34;_blank&#34;&gt;Barwon Health&lt;/a&gt; we are embarking on questions that arise in examination of large, disparate and multimodal hospital data sets. Can we impact and inform the formation of dynamic health intervention and improved safety and care through:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -94,10 +94,10 @@
     
     <item>
       <title>Large Scale Surveillance</title>
-      <link>https://svethav.github.io/project/large-scale-surveillance/</link>
+      <link>https://joan726.github.io/project/large-scale-surveillance/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://svethav.github.io/project/large-scale-surveillance/</guid>
+      <guid>https://joan726.github.io/project/large-scale-surveillance/</guid>
       <description>&lt;p&gt;We are interested in the problems that arise when we examine hundreds of cameras. This big data problem opens up many new questions: Given limited operator capacity, how can select which camera I should look at? How do I select models and parameters for heterogeneous stream data - example, video feeds in varying environmental conditions? How do I evaluate algorithms in big data - training sets may exceeds 2 weeks of video data, and no realistic ground truth can be obtained from operators. How do we compare algorithms?&lt;/p&gt;
 
 &lt;p&gt;Our Contributions: Focusing on issues of large scale surveillance we have developed new techniques to model &amp;ldquo;normal&amp;rdquo; data from static video cameras. This allows us to detect real time &amp;ldquo;abnormal events&amp;rdquo; and thus enable operators to focus on the 1% of events in a video feed. Our algorithms drive the start-up iCetana&amp;rsquo;s innovative anomaly detection software. The software uses ideas from Compressed Sensing to enable simultaneous surveillance of many cameras deployed in diverse settings. A local city council has used our algorithms to detect loitering, anti-social behaviour and traffic violations. For more information see &lt;a href=&#34;https://icetana.com/&#34; target=&#34;_blank&#34;&gt;iCetana&lt;/a&gt;. The technology was: Winner, The Broadband Innovation Award Tech23,2010; Winner, 2011 WA Innovator of the Year.&lt;/p&gt;
@@ -118,20 +118,20 @@
     
     <item>
       <title>Social Media Analysis</title>
-      <link>https://svethav.github.io/project/social-media-analysis/</link>
+      <link>https://joan726.github.io/project/social-media-analysis/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://svethav.github.io/project/social-media-analysis/</guid>
+      <guid>https://joan726.github.io/project/social-media-analysis/</guid>
       <description>&lt;p&gt;We study patterns in social media data; who is talking to who? What are they talking about? What is their sentiment? We discover latent community structures, their topics and trends. We explore not only text in blogs but also connectivity through comments. For personal media management it could be argued that social context contains the set of conceptions most often brought to bear on their contents: Where was this? Who is that? What activity were we all doing there? Who do I want to share this with? This project aims to use signals obtained from unobtrusive data sources available with today&amp;rsquo;s devices, such as location information (e.g. GPS), to extract socially meaningful indices for personal media. Social spheres are locations of significance, such as Home, Work and Recreational Area. Social networks of social ties capture the dynamic web of relationships in which we are embedded. Social rhythms arise as patterns across these former elements and allow even finer resolution categorization of activities that occur within them in space and time. All of this information can then be used, at the very least, to provide new ways to index and interact with our own, or others&amp;rsquo;, media collections. Initial work in this area focused on discovering the social spheres Work, Home and Other from raw, noisy GPS traces of everyday life, and used this information together with the presence of known persons to provide a novel personal media exploration environment called Socio-Graph. The interface aimed to allow simple search and filtering on the concepts most people innately bring to their personal media. We do this project jointly with our colleagues at Curtin University.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
-      <link>https://svethav.github.io/post/getting-started/</link>
+      <link>https://joan726.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
       
-      <guid>https://svethav.github.io/post/getting-started/</guid>
+      <guid>https://joan726.github.io/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;The Academic framework enables you to easily create a beautifully simple personal or academic website using the &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
@@ -142,7 +142,7 @@
 &lt;li&gt;Easily manage your homepage, blog posts, publications, talks, and projects&lt;/li&gt;
 &lt;li&gt;Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact&lt;/li&gt;
 &lt;li&gt;Need a different section? Just use the Custom widget!&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;https://svethav.github.io/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
+&lt;li&gt;Write in &lt;a href=&#34;https://joan726.github.io/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
 &lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
 &lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
 &lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
@@ -240,15 +240,15 @@ cd my_website
 
 &lt;h3 id=&#34;customize-the-homepage&#34;&gt;Customize the homepage&lt;/h3&gt;
 
-&lt;p&gt;Refer to our guide on using &lt;a href=&#34;https://svethav.github.io/post/widgets/&#34; target=&#34;_blank&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on using &lt;a href=&#34;https://joan726.github.io/post/widgets/&#34; target=&#34;_blank&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
 
 &lt;h3 id=&#34;add-your-content&#34;&gt;Add your content&lt;/h3&gt;
 
-&lt;p&gt;Refer to our guide on &lt;a href=&#34;https://svethav.github.io/post/managing-content/&#34; target=&#34;_blank&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on &lt;a href=&#34;https://joan726.github.io/post/managing-content/&#34; target=&#34;_blank&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
 
 &lt;h3 id=&#34;remove-unused-widgets-and-pages&#34;&gt;Remove unused widgets and pages&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://svethav.github.io/post/managing-content/#removing-content&#34; target=&#34;_blank&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://joan726.github.io/post/managing-content/#removing-content&#34; target=&#34;_blank&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&#34;themes&#34;&gt;Themes&lt;/h3&gt;
 
@@ -418,10 +418,10 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     
     <item>
       <title>Customizing the homepage with widgets</title>
-      <link>https://svethav.github.io/post/widgets/</link>
+      <link>https://joan726.github.io/post/widgets/</link>
       <pubDate>Tue, 19 Apr 2016 00:00:00 +1000</pubDate>
       
-      <guid>https://svethav.github.io/post/widgets/</guid>
+      <guid>https://joan726.github.io/post/widgets/</guid>
       <description>
 
 &lt;p&gt;Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:&lt;/p&gt;
@@ -486,15 +486,15 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     
     <item>
       <title>Managing content</title>
-      <link>https://svethav.github.io/post/managing-content/</link>
+      <link>https://joan726.github.io/post/managing-content/</link>
       <pubDate>Mon, 18 Apr 2016 00:00:00 +1000</pubDate>
       
-      <guid>https://svethav.github.io/post/managing-content/</guid>
-      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, news/blog articles, and widget pages. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://svethav.github.io/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://joan726.github.io/post/managing-content/</guid>
+      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, news/blog articles, and widget pages. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://joan726.github.io/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;To enable LaTeX math rendering for a page, you should include &lt;code&gt;math = true&lt;/code&gt; in the page&amp;rsquo;s &lt;code&gt;+++&lt;/code&gt; preamble, as demonstrated in the included example site. Otherwise, to enable math on the homepage or for all pages, you must globally set &lt;code&gt;math = true&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;To disable source code highlighting by default for all pages, set &lt;code&gt;highlight = false&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. You can then enable source code highlighting only on pages that need it by setting &lt;code&gt;highlight = true&lt;/code&gt; in that page&amp;rsquo;s preamble. See the &lt;a href=&#34;https://svethav.github.io/post/writing-markdown-latex/#code-highlighting&#34; target=&#34;_blank&#34;&gt;code-highlighting docs&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;p&gt;To disable source code highlighting by default for all pages, set &lt;code&gt;highlight = false&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. You can then enable source code highlighting only on pages that need it by setting &lt;code&gt;highlight = true&lt;/code&gt; in that page&amp;rsquo;s preamble. See the &lt;a href=&#34;https://joan726.github.io/post/writing-markdown-latex/#code-highlighting&#34; target=&#34;_blank&#34;&gt;code-highlighting docs&lt;/a&gt; for more details.&lt;/p&gt;
 
 &lt;p&gt;To display a featured image in content page headers, the parameters below can be inserted towards the end of a page&amp;rsquo;s &lt;code&gt;+++&lt;/code&gt; preamble. It is assumed that the image is located in your &lt;code&gt;static/img/&lt;/code&gt; folder, so the full path in the example below will be &lt;code&gt;static/img/headers/getting-started.png&lt;/code&gt;. The &lt;code&gt;caption&lt;/code&gt; parameter can be used to write an image caption or credit.&lt;/p&gt;
 
@@ -716,10 +716,10 @@ widgets = true
     
     <item>
       <title>Writing content with Markdown, LaTeX, and Shortcodes</title>
-      <link>https://svethav.github.io/post/writing-markdown-latex/</link>
+      <link>https://joan726.github.io/post/writing-markdown-latex/</link>
       <pubDate>Sun, 17 Apr 2016 00:00:00 +1000</pubDate>
       
-      <guid>https://svethav.github.io/post/writing-markdown-latex/</guid>
+      <guid>https://joan726.github.io/post/writing-markdown-latex/</guid>
       <description>&lt;p&gt;Content can be written using &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt;, &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt;, and &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34; target=&#34;_blank&#34;&gt;Hugo Shortcodes&lt;/a&gt;. Additionally, HTML may be used for advanced formatting. This article gives an overview of the most common formatting options.&lt;/p&gt;
 
 &lt;h2&gt;Table of Contents&lt;/h2&gt;
@@ -962,7 +962,7 @@ print(&amp;quot;You entered: {}&amp;quot;.format(input_string_var))
 
 &lt;p&gt;If the &lt;code&gt;highlight_languages&lt;/code&gt; option is set, then the corresponding javascript files will be served from the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34; target=&#34;_blank&#34;&gt;cdnjs server&lt;/a&gt;. To see a list of available languages, visit the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34; target=&#34;_blank&#34;&gt;cdnjs page&lt;/a&gt; and search for links with the word &amp;ldquo;languages&amp;rdquo;.&lt;/p&gt;
 
-&lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; option provides an easy and convenient way to include support for additional languages to be severed from a CDN. If serving unmodified files from cdnjs doesn&amp;rsquo;t meet your needs, you can include javascript files for additional language support via one of the methods described in the &lt;a href=&#34;https://svethav.github.io/post/getting-started/#third-party-and-local-scripts-js&#34; target=&#34;_blank&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; option provides an easy and convenient way to include support for additional languages to be severed from a CDN. If serving unmodified files from cdnjs doesn&amp;rsquo;t meet your needs, you can include javascript files for additional language support via one of the methods described in the &lt;a href=&#34;https://joan726.github.io/post/getting-started/#third-party-and-local-scripts-js&#34; target=&#34;_blank&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4 id=&#34;option-highlight-style&#34;&gt;Option &lt;code&gt;highlight_style&lt;/code&gt;&lt;/h4&gt;
 
@@ -1132,10 +1132,10 @@ Here&#39;s some important information...
     
     <item>
       <title>Frequently Asked Questions (FAQ)</title>
-      <link>https://svethav.github.io/post/faq/</link>
+      <link>https://joan726.github.io/post/faq/</link>
       <pubDate>Sun, 10 Apr 2016 00:00:00 +1000</pubDate>
       
-      <guid>https://svethav.github.io/post/faq/</guid>
+      <guid>https://joan726.github.io/post/faq/</guid>
       <description>&lt;p&gt;Common questions and answers will be listed here.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;I cloned/downloaded Academic but Hugo produces errors when using it with my existing Hugo site&lt;/strong&gt;&lt;/p&gt;
@@ -1185,31 +1185,31 @@ y &amp;amp;=&amp;amp; 1+1   \\\\\\
     
     <item>
       <title>Bayesian nonparametric multilevel clustering with group-level contexts</title>
-      <link>https://svethav.github.io/publication/bayesian-nonparametric/</link>
+      <link>https://joan726.github.io/publication/bayesian-nonparametric/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://svethav.github.io/publication/bayesian-nonparametric/</guid>
+      <guid>https://joan726.github.io/publication/bayesian-nonparametric/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Risk stratification using data from electronic medical records better predicts suicide risks than clinician assessments </title>
-      <link>https://svethav.github.io/publication/risk-stratification/</link>
+      <link>https://joan726.github.io/publication/risk-stratification/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://svethav.github.io/publication/risk-stratification/</guid>
+      <guid>https://joan726.github.io/publication/risk-stratification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Migrate from Jekyll to Hugo</title>
-      <link>https://svethav.github.io/post/migrate-from-jekyll/</link>
+      <link>https://joan726.github.io/post/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +1100</pubDate>
       
-      <guid>https://svethav.github.io/post/migrate-from-jekyll/</guid>
+      <guid>https://joan726.github.io/post/migrate-from-jekyll/</guid>
       <description>
 
-&lt;p&gt;Here are a few tips for migrating an existing website from Jekyll to Hugo. These tips can be applied in conjunction with following Hugo Academic&amp;rsquo;s &lt;a href=&#34;https://svethav.github.io/post/getting-started/&#34; target=&#34;_blank&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here are a few tips for migrating an existing website from Jekyll to Hugo. These tips can be applied in conjunction with following Hugo Academic&amp;rsquo;s &lt;a href=&#34;https://joan726.github.io/post/getting-started/&#34; target=&#34;_blank&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
 
@@ -1247,10 +1247,10 @@ With Jekyll, something that looked like&lt;/p&gt;
     
     <item>
       <title>TOBY: Early intervention in autism through technology </title>
-      <link>https://svethav.github.io/publication/toby/</link>
+      <link>https://joan726.github.io/publication/toby/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://svethav.github.io/publication/toby/</guid>
+      <guid>https://joan726.github.io/publication/toby/</guid>
       <description></description>
     </item>
     
