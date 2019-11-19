@@ -896,22 +896,14 @@ footer a#back_to_top i {
   border: none;
 }
 
-.btn-toolbar .btn:first-child {
-  border-radius: 6px 0 0 6px;
-}
-
-.btn-toolbar .btn:last-child {
-  border-radius: 0 6px 6px 0;
-}
-
 .btn-toolbar .btn.btn-primary:hover,
 .btn-toolbar .btn.btn-primary:focus {
-  background-color: #0069c0 !important;
+  background-color: rgba(127,140,180,0.6); !important;
 }
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: #6ec6ff !important;
+  background-color: rgba(52,60,86,1) !important;
 }
 
 /*************************************************
