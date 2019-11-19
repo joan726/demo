@@ -864,16 +864,16 @@ footer a#back_to_top i {
  **************************************************/
 
 .btn-primary {
-  border-color: #0095eb !important;
-  background: #0095eb !important;
+  border-color: rgb(127,140,180);
+  /*background: rgb(127,140,180);*/
 }
 
 .btn-primary:hover,
+.btn-primary:focus,
 .btn-primary:active,
 .btn-primary.active,
-.btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
-  background: #0095eb !important;
+  background: rgb(127,140,180);
 }
 
 .btn-light {
@@ -887,32 +887,24 @@ footer a#back_to_top i {
   background: rgba(0,0,0,0.4) !important;
 }
 
+
 /*************************************************
  *  Toolbar Buttons
  **************************************************/
+ 
 
-.btn-toolbar .btn {
-  font-size: 0.9rem;
-  padding: 10px 14px 9px;
-  border: none;
-}
-
-.btn-toolbar .btn:first-child {
-  border-radius: 6px 0 0 6px;
-}
-
-.btn-toolbar .btn:last-child {
-  border-radius: 0 6px 6px 0;
+.btn-toolbar .btn.btn-primary {
+  background: rgb(127,140,180);
 }
 
 .btn-toolbar .btn.btn-primary:hover,
 .btn-toolbar .btn.btn-primary:focus {
-  background-color: #0069c0 !important;
+  background-color: rgba(127,140,180,0.6);
 }
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: #6ec6ff !important;
+  background-color: rgba(52,60,86,1);
 }
 
 /*************************************************
@@ -926,8 +918,8 @@ footer a#back_to_top i {
 }
 
 .btn-primary.btn-outline {
-  color: #0095eb !important;
-  border-color: #0095eb !important;
+  color: rgb(127,140,180);
+  border-color: rgb(127,140,180);
 }
 
 .btn-primary.btn-outline:focus {
