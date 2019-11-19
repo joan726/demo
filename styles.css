@@ -877,14 +877,14 @@ footer a#back_to_top i {
 }
 
 .btn-light {
-  border-color: #fff !important;
+  border-color: rgb(127,140,180) !important;
   background: #fff !important;
 }
 
 .btn-light:hover,
 .btn-light:active,
 .btn-light.active {
-  background: rgba(0,0,0,0.4) !important;
+  background: #343c56 !important;
 }
 
 /*************************************************
