@@ -874,6 +874,7 @@ footer a#back_to_top i {
 .btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
   background: #768fff !important;
+  border: 2px solid #0039cb;
 }
 
 .btn-light {
@@ -977,7 +978,7 @@ footer a#back_to_top i {
 
 .navbar-default {
   background: #fff;
-  box-shadow: 0 0 0 0 rgba(0,0,0,.11)
+  box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
 }
 
 .navbar-default .navbar-toggle {
