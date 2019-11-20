@@ -898,7 +898,7 @@ footer a#back_to_top i {
 
 .btn-toolbar .btn.btn-primary:hover,
 .btn-toolbar .btn.btn-primary:focus {
-  background-color: rgba(127,140,180,0.6); !important;
+  background-color: #7590ff !important;
 }
 
 .btn-toolbar .btn.btn-primary:active,
