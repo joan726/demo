@@ -878,13 +878,13 @@ footer a#back_to_top i {
 
 .btn-light {
   border-color: #7f8cb4 !important;
-  background: #022fc2 !important;
+  background: #0638cd !important;
 }
 
 .btn-light:hover,
 .btn-light:active,
 .btn-light.active {
-  background: #022fc2 !important;
+  background: #0638cd !important;
 }
 
 /*************************************************
@@ -903,7 +903,7 @@ footer a#back_to_top i {
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: #022fc2 !important;
+  background-color: #0638cd !important;
 }
 
 /*************************************************
