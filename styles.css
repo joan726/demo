@@ -877,7 +877,7 @@ footer a#back_to_top i {
 }
 
 .btn-light {
-  border-color: rgb(127,140,180) !important;
+  border-color: #7f8cb4 !important;
   background: #022fc2 !important;
 }
 
@@ -972,7 +972,7 @@ footer a#back_to_top i {
  **************************************************/
 
 .navbar {
-  min-height: 70px !important;
+  min-height: 60px !important;
 }
 
 .navbar-default {
