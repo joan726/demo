@@ -864,7 +864,7 @@ footer a#back_to_top i {
  **************************************************/
 
 .btn-primary {
-  border-color: #0095eb !important;
+  border-color: #7590ff !important;
   background: #7f8cb4 !important;
 }
 
@@ -873,7 +873,7 @@ footer a#back_to_top i {
 .btn-primary.active,
 .btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
-  background: #0095eb !important;
+  background: #7590ff !important;
 }
 
 .btn-light {
@@ -917,12 +917,12 @@ footer a#back_to_top i {
 }
 
 .btn-primary.btn-outline {
-  color: #0095eb !important;
-  border-color: #0095eb !important;
+  color: #7590ff !important;
+  border-color: #7590ff !important;
 }
 
 .btn-primary.btn-outline:focus {
-  color: #0095eb !important;
+  color: #7590ff !important;
 }
 
 .btn-primary.btn-outline:active {
