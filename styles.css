@@ -636,6 +636,7 @@ article {
 
 .pub-list-item .pub-abstract {
   font-size: 1rem;
+  text-align: justify;
 }
 
 .pub-list-item .pub-authors {
