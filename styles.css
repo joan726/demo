@@ -1410,3 +1410,9 @@ body.dark {
   background: rgb(40, 42, 54);
   color: rgb(248, 248, 242);
 }
+
+.card-simple{
+	background:#fff;
+	box-shadow:0 1px 4px rgba(0,0,0,.04);
+	border:1px solid rgba(0,0,0,.09);
+}
