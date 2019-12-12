@@ -1412,7 +1412,11 @@ body.dark {
 }
 
 .card-simple{
+	font-size:1.2rem;
 	background:#fff;
 	box-shadow:0 1px 4px rgba(0,0,0,.04);
 	border:1px solid rgba(0,0,0,.09);
+	border-radius:3px;
+	margin-top:20px;
+	padding:15px 20px;
 }
