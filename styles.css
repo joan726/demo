@@ -518,7 +518,7 @@ article {
 
 .article-metadata {
   margin-bottom: 20px;
-  line-height: 30px; /* Match share bar line height. */
+  line-height: 15px; /* Match share bar line height. */
   overflow: hidden;
   font-size: 12px;
   letter-spacing: 0.03em;
@@ -1424,4 +1424,4 @@ body.dark {
 
 .media.stream-item .article-title,.card-simple .article-title{font-size:1.5rem}
 
-.view-list-item{margin-bottom:1rem}.
+.view-list-item{margin-bottom:1rem}
