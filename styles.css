@@ -94,7 +94,7 @@ h3 {
 }
 h4, h5, h6 {
   margin-top: .5rem;
-  font-size: 14px;
+  font-size: 1rem;
 }
 
 a,
@@ -105,8 +105,8 @@ h3.article-title a:hover {
 }
 
 a,
-h4.article-title a:hover,
-h4.article-title a:focus{
+h4.recent-title a:hover,
+h4.recent-title a:focus{
   color: #0095eb;
 }
 
@@ -513,6 +513,10 @@ article {
 
 .article-title {
   font-size: 1.75rem;
+}
+
+.recent-title {
+  font-size: 1.2rem;
 }
 
 .article-title a {
