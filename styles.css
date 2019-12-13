@@ -96,7 +96,7 @@ h3 {
 h4, h5, h6 {
   font-weight: 700;
   margin-top: 1rem;
-  font-size: 1rem;
+  font-size: .8rem;
 }
 
 a,
@@ -517,8 +517,8 @@ article {
 }
 
 .article-metadata {
-  margin-top:10px
-  margin-bottom: 10px;
+  margin-top:15px
+  margin-bottom: 15px;
   line-height: 15px; /* Match share bar line height. */
   overflow: hidden;
   font-size: 12px;
