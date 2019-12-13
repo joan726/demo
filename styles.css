@@ -563,6 +563,10 @@ article {
   content: '\00B7';
 }
 
+.article-style{
+  margin-bottom: 10px;
+}
+
 .article-style img,
 .article-style video {
   box-shadow: 1px 1px 0px #edefed, -1px -1px 0px #edefed, 1px -1px 0px #edefed, -1px 1px 0px #edefed;
