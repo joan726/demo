@@ -517,7 +517,6 @@ article {
 }
 
 .article-metadata {
-  margin-top:15px;
   margin-bottom:15px;
   line-height: 15px; /* Match share bar line height. */
   overflow: hidden;
