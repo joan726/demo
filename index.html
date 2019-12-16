@@ -359,9 +359,9 @@
       
     </div>
     <div class="col-12 col-md-6">
-      <h3 class="article-title mb-0 mt-0" itemprop="name"><a href="https://arxiv.org/abs/1804.05839" target="_blank"  itemprop="url">BigDL: A Distributed Deep Learning Framework for Big Data</a></h3>     
+      <h3 class="article-title mb-0 mt-0" itemprop="name"><a href="https://arxiv.org/abs/1804.05839" target="_blank"  itemprop="url">BigDL: A Distributed Deep Learning Framework for Apache Spark</a></h3>     
       <div class="article-style" itemprop="articleBody">
-        It allows deep learning applications to run on the Apache Hadoop/Spark cluster so as to directly process the production data.
+        BigDL allows users to can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters to process Big Data.
       </div>
     </div>
 
@@ -379,10 +379,10 @@
       
     </div>
     <div class="col-12 col-md-6">
-      <h3 class="article-title mb-0 mt-0" itemprop="name"><a href="https://github.com/intel-analytics/analytics-zoo" target="_blank" itemprop="url">Analytics Zoo: A Unified Big Data Analytics and AI Platform</a></h3>
+      <h3 class="article-title mb-0 mt-0" itemprop="name"><a href="https://github.com/intel-analytics/analytics-zoo" target="_blank" itemprop="url">Analytics Zoo: A Unified Data Analytics and AI Platform</a></h3>
 
       <div class="article-style" itemprop="articleBody">
-        A unified analytics + AI platform for distributed TensorFlow, Keras, PyTorch and BigDL on Apache Spark.
+        Analytics Zoo seamlessly unites TensorFlow, Keras, PyTorch, Spark, Flink and Ray programs into an integrated pipeline, which can transparently scale from laptops to large clusters to process production big data.
       </div>
 
     </div>
@@ -403,7 +403,7 @@
       <h3 class="article-title mb-0 mt-0" itemprop="name"><a href="https://medium.com/riselab/scalable-automl-for-time-series-prediction-using-ray-and-analytics-zoo-b79a6fd08139" target="_blank"  itemprop="url">Scalable AutoML for Time Series Prediction Using Ray</a></h3>
 
       <div class="article-style" itemprop="articleBody">
-        How to implement the scalable AutoML framework and automatic time series prediction leveraging Ray Tune and RayOnSpark.
+        It leverages emerging AI technologies (e.g., Ray, hyperparameter optimization, sequence generation models, etc.) to automatically generate feature, select models and tune hyperparameters for time series prediction in a distributed fashion.
       </div>
 
     </div>
@@ -422,11 +422,11 @@
       
     </div>
     <div class="col-12 col-md-6">
-      <h3 class="article-title mb-0 mt-0" itemprop="name"><a href="https://www.infoq.com/articles/analytics-zoo-qa-module/" target="_blank"  itemprop="url">NLP Empowered Customer Service Platform for Azure</a></h3>
+      <h3 class="article-title mb-0 mt-0" itemprop="name"><a href="https://www.infoq.com/articles/analytics-zoo-qa-module/" target="_blank"  itemprop="url">NLP Based Customer Service Chatbot for Azure</a></h3>
 
       
       <div class="article-style" itemprop="articleBody">
-        Users can easily use built-in models to perform natural language processing tasks in a distributed fashion.
+        Building a customer service chatbot using NLP technologies (e.g., text classification and text matching models) in Analytics Zoo with the Microsoft Azure China team.
       </div>
       
     </div>
@@ -445,10 +445,10 @@
       
     </div>
     <div class="col-12 col-md-6">
-      <h3 class="article-title mb-0 mt-0" itemprop="name"><a href="https://software.intel.com/en-us/articles/real-time-product-recommendations-for-office-depot-using-apache-spark-and-analytics-zoo-on" target="_blank"  itemprop="url">Session-Based Product Recommendation for Office Depot on AWS</a></h3>
+      <h3 class="article-title mb-0 mt-0" itemprop="name"><a href="https://software.intel.com/en-us/articles/real-time-product-recommendations-for-office-depot-using-apache-spark-and-analytics-zoo-on" target="_blank"  itemprop="url">Session-Based Product Recommendation for Office Depot</a></h3>
 
       <div class="article-style" itemprop="articleBody">
-        Real-time recommender systems are critical for the success of the e-commerce industry.
+        Building the end-to-end product recommendation pipeline (using session-based recommendation models, Analytics Zoo, MLeap, Play Framework, etc.) on AWS with the Office Depot team.
       </div>
 
     </div>
@@ -469,7 +469,7 @@
       <h3 class="article-title mb-0 mt-0" itemprop="name"><a href="https://www.slideshare.net/jason-dai/building-ai-to-play-the-fifa-video-game-using-distributed-tensorflow-on-analytics-zoo" target="_blank"  itemprop="url">Building AI to play the FIFA video game using distributed TensorFlow</a></h3>
 
       <div class="article-style" itemprop="articleBody">
-        FIFA is a real-time 3D soccer simulation video game by Electronic Arts. Distributed TF on Apache Spark using Analytics Zoo.
+        Building an experiment platform using both DRL algorithms (e.g., imitation learning, DQN, policy gradient, etc.) as well as computer vision models (e.g., object detection, object tracking, OCR, etc.) to play FIFA18.
       </div>
     </div>
 
@@ -616,7 +616,43 @@
 </a>
       </div>
 </div>
+<div class="card-simple" itemscope itemtype="http://schema.org/ScholarlyArticle">
 
+<div class="article-metadata">
+ 
+  <div>
+
+  </div>
+
+</div>
+
+  <h3 class="article-title mb-1 mt-3" itemprop="name">
+    <a href="https://dblp.org/db/conf/pldi/pldi2005" target="_blank" itemprop="url">Automatically partitioning packet processing applications for pipelined architectures</a>
+  </h3>
+
+  
+  <div class="article-style" itemprop="articleBody" align="justify">
+    Modern network processors employs parallel processing engines(PEs) to keep up with explosive internet packet processing demands. Most network processors further allow processing engines to be organized in a pipelined fashion to enable higher processing throughput and flexibility. In this paper, we present a novel program transformation technique to exploit parallel and pipelined computing power of modern network processors. Our proposed method automatically partitions a sequential packet processing application into coordinated pipelined parallel subtasks which can be naturally mapped to contemporary highperformance network processors. Our transformation technique ensures that packet processing tasks are balanced among pipeline stages and that data transmission between pipeline stages is minimized. We have implemented the proposed transformation method in an auto-partitioning C compiler product for Intel Network Processors. Experimental results show that our method provides impressive speed up for the commonly used NPF IPv4 forwarding and IP forwarding benchmarks. For a 9-stage pipeline, our auto-partitioning C compiler obtained more than 4X speedup for the IPv4 forwarding PPS and the IP forwarding PPS (for both the IPv4 traffic and IPv6 traffic).
+  </div>
+  
+  <div class="article-metadata" itemprop="author">
+
+  <span itemscope itemprop="author">
+      <span itemprop="name">Jinquan Dai, Bo Huang, Long Li, Luddy Harrison</span></span>
+
+  </div>
+
+      <div class="pub-publication">
+        In Proceedings of the ACM SIGPLAN 2005 Conference on Programming Language Design and Implementation
+      </div>
+
+      <div class="pub-links">
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.researchgate.net/profile/Bo_Huang7/publication/220751888_Automatically_partitioning_packet_processing_applications_for_pipelined_architectures/links/00b7d51b876c7772ef000000/Automatically-partitioning-packet-processing-applications-for-pipelined-architectures.pdf?_sg%5B0%5D=GMl5ys3AJdX_WPQVF6dLj1BqOUK4coCnSegHN01NrsXZtfwM7YpGg_6oiJv9YlXQHHLHQnyK2W9dTxD30n-rfg.bFAzh2nIeeqGlH8a6NVzRaKpfPD6MnsW1ZWQuDw5UzFr7JHRmrxUwFEpl5HnfWx_4Yrx79wTUco_GIDafSJ1ZA&_sg%5B1%5D=3hgk0lGKITs8Oi-yCFfINfoGl18pYNEU6r229yD4RDZiQELZnzA7We8sHOR9uB28h0yOshtDAEiqYvsZemxmmiy_5knbtNw-FBjyw2Qf7qoT.bFAzh2nIeeqGlH8a6NVzRaKpfPD6MnsW1ZWQuDw5UzFr7JHRmrxUwFEpl5HnfWx_4Yrx79wTUco_GIDafSJ1ZA&_iepl=" target="_blank" rel="noopener">
+  PDF
+</a>
+      </div>
+</div>
   </div>
 </div>
 
@@ -662,7 +698,7 @@
 
 <div class="view-list-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
   <i class="fas fa-file-alt" aria-hidden="true"></i>
-      <h4 class="recent-title mb-1 mt-3" itemprop="name"><a href="http://aaai.org/Conferences/AAAI-19/aaai19tutorials/#sp2" target="_blank" itemprop="url"><span itemprop="name">AAAI 2019 Tutorial: “Build Deep Learning Applications for Big Data Platforms</span></a></h4>
+      <h4 class="recent-title mb-1 mt-3" itemprop="name"><a href="http://aaai.org/Conferences/AAAI-19/aaai19tutorials/#sp2" target="_blank" itemprop="url"><span itemprop="name">Build Deep Learning Applications for Big Data Platforms</span></a></h4>
 
   <div class="article-metadata" itemprop="author">
 
@@ -672,7 +708,7 @@
   </div>
 
       <div class="pub-publication">
-       In The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-2019)
+       In Tutorial of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-2019)
       </div>
 	  
       <div class="pub-links">
@@ -686,7 +722,7 @@
 
 <div class="view-list-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
   <i class="fas fa-file-alt" aria-hidden="true"></i>
-      <h4 class="recent-title mb-1 mt-3" itemprop="name"><a href="http://cvpr2018.thecvf.com/program/tutorials" target="_blank" itemprop="url"><span itemprop="name">CVPR 2018 Tutorial: “Building Deep Learning Applications on Big Data Platforms</span></a></h4>
+      <h4 class="recent-title mb-1 mt-3" itemprop="name"><a href="http://cvpr2018.thecvf.com/program/tutorials" target="_blank" itemprop="url"><span itemprop="name">Building Deep Learning Applications on Big Data Platforms</span></a></h4>
 
   <div class="article-metadata" itemprop="author">
 
@@ -771,7 +807,7 @@
   </div>
 
       <div class="pub-publication">
-        In the 26th International Conference on Data Engineering, ICDE 2010
+        In Proceedings of the 26th International Conference on Data Engineering, ICDE 2010
       </div>
 
       <div class="pub-links">
@@ -796,7 +832,7 @@
   </div>
 
       <div class="pub-publication">
-        In the 25th International Conference on Data Engineering, ICDE 2009
+        In Proceedings of the 25th International Conference on Data Engineering, ICDE 2009
       </div>
 
       <div class="pub-links">
@@ -812,7 +848,7 @@
 
 <div class="view-list-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
   <i class="fas fa-file-alt" aria-hidden="true"></i>
-      <h4 class="recent-title mb-1 mt-3" itemprop="name"><a href="https://parasol.tamu.edu/pact/pact2007/" target="_blank" itemprop="url"><span itemprop="name">Latency Hiding in Multi-Threading and Multi-Processing of Network Applications</span></a></h4>
+      <h4 class="recent-title mb-1 mt-3" itemprop="name"><a href="https://parasol.tamu.edu/pact/pact2007/program.php" target="_blank" itemprop="url"><span itemprop="name">Latency Hiding in Multi-Threading and Multi-Processing of Network Applications</span></a></h4>
   
   <div class="article-metadata" itemprop="author">
 
@@ -822,7 +858,7 @@
   </div>
 
       <div class="pub-publication">
-        In Parallel Architectures and Compilation Techniques(PACT), 2007
+        In Session 8 of the 16th International Conference on Parallel Architecture and Compilation Techniques(PACT), 2007
       </div>
 
       <div class="pub-links">
